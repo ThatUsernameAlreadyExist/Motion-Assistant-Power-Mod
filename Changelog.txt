@@ -1,0 +1,28 @@
+Version 1.1.1
+    Polling Optimizations
+    - The app no longer polls the controller every time to check if it is still connected.
+    - The hardware monitoring interval has been increased.
+    - The gyro poll interval has been increased.
+
+    Gyro/Mouse Simulation
+    - The gyro is no longer polled if simulation is disabled.
+    - If a gyro hotkey or trigger is set, the gyro polling stops when the hotkey or trigger is not pressed.
+    - The interval to check for gyro hotkey or trigger presses has been increased.
+
+    Process Management
+    - The app no longer checks running processes if there are no process profiles in the settings.
+
+    User Interface
+    - Hardware monitoring labels are no longer updated if the app is minimized.
+
+    Power State
+    - The interval to check the AC/DC power state has been increased.
+    - Support for Modern Standby has been added.
+    - The app can now automatically disable Bluetooth in sleep mode.
+
+    GPU Optimization
+    - The GPU parameters update interval has been increased if 'auto/float optimize GPU' is disabled.
+
+    Hotkeys
+    - The interval to check keyboard and controller hotkey presses has been increased.
+    - The app no longer checks the controller or keyboard state if hotkeys are not set or are disabled.
