@@ -10,7 +10,7 @@ The Motion Assistant is a comprehensive utility designed for GPD handheld gaming
 - **Gyro Settings**: Simulate gyro data inputs, particularly useful for games that require motion-controlled inputs.
 - **Hotkeys**: Create and manage custom hotkeys for enhanced user convenience.
 - **Framerate Limit**: Set a framerate limit to balance performance and power consumption.
-- **Device Hiding and Controller Simulation**: Hide non-gyro controllers and simulate gyro controllers for games that do not natively support gyro inputs[1][3][5].
+- **Device Hiding and Controller Simulation**: Hide non-gyro controllers and simulate gyro controllers for games that do not natively support gyro inputs.
 
 ## Mod Objective
 
@@ -46,4 +46,4 @@ To install the modified version of the Motion Assistant, follow these steps:
 
 ### Community Support
 - Join the GPD community on Discord for discussions and support.
-- Refer to the [GPD WIN Max 2 Wiki/Guide](https://github.com/Sabrina-Fox/WM2-Help) for additional resources and troubleshooting tips.
+- Refer to the GPD WIN Max 2 Wiki/Guide](https://github.com/Sabrina-Fox/WM2-Help) for additional resources and troubleshooting tips.
