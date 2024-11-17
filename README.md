@@ -46,4 +46,4 @@ To install the modified version of the Motion Assistant, follow these steps:
 
 ### Community Support
 - Join the GPD community on Discord for discussions and support.
-- Refer to the GPD WIN Max 2 Wiki/Guide](https://github.com/Sabrina-Fox/WM2-Help) for additional resources and troubleshooting tips.
+- Refer to the [GPD WIN Max 2 Wiki/Guide](https://github.com/Sabrina-Fox/WM2-Help) for additional resources and troubleshooting tips.
