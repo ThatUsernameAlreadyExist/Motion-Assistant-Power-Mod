@@ -1,3 +1,9 @@
+Version 1.2.0
+    Power Management
+    - Implemented the ability to suspend/throttle the Bosch BMI160 Accelerometer driver when not in use, significantly reducing CPU usage and power consumption in idle states.
+    Gyro/Mouse Events
+    - Fixed an issue where gyro and mouse events were incorrectly generated after the device entered sleep mode or the screen was turned off, which could lead to spurious wakeups. 
+
 Version 1.1.1
     Polling Optimizations
     - The app no longer polls the controller every time to check if it is still connected.
