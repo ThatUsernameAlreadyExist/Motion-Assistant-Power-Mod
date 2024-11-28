@@ -35,8 +35,8 @@ To install the modified version of the Motion Assistant, follow these steps:
 
 ### Step 3: Replace the Original EXE File
 - Locate the installation directory of the original Motion Assistant. This is typically found in `C:\Program Files\Motion Assistant`.
-- Backup the original `MotionAssistant.exe` file or any other executable files that will be replaced, in case you need to revert to the original version.
-- Replace the original `MotionAssistant.exe` file with the modified EXE file downloaded from the `Release` section.
+- Backup the original `MotionAssistant.exe`, in case you need to revert to the original version.
+- Copy the contents of the `binary` folder (downloaded from the `Release` section) to the `Motion Assistant` folder, replacing the original `MotionAssistant.exe` file.
 
 ## Resources
 

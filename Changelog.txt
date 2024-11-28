@@ -1,3 +1,10 @@
+Version 1.2.1
+    Localization
+    - Added Russian language
+
+    Gyro/Stick Simulation
+    - Optimizations for simulate Xbox/DS4 sticks by gyro
+
 Version 1.2.0
     Power Management
     - Implemented the ability to suspend/throttle the Bosch BMI160 Accelerometer driver when not in use, significantly reducing CPU usage and power consumption in idle states.
