@@ -1,9 +1,23 @@
+Version 1.2.3
+    Polling Optimizations
+    - Removed obtaining the current GPU power consumption (this caused increased CPU usage and power consumption in Idle).
+
+    Power State
+    - Added possibility to reset GPU frequencies to factory values by switching to Modern Stanby instead of Hibernation.
+
+    Fixes
+    - Fixed crash on app exit after the system has been in sleep mode.
+
+Version 1.2.2
+    OSD
+    - Saving RTSS "benchmark mode" in permanent settings.
+
 Version 1.2.1
     Localization
-    - Added Russian language
+    - Added Russian language.
 
     Gyro/Stick Simulation
-    - Optimizations for simulate Xbox/DS4 sticks by gyro
+    - Optimizations for simulate Xbox/DS4 sticks by gyro.
 
 Version 1.2.0
     Power Management
