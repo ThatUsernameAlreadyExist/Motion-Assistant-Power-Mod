@@ -1,3 +1,7 @@
+Version 1.2.4
+    Fixes
+    - Fixed a low MTP file transfer rate issue when pausing the Bosch BMI160 Accelerometer driver (conflict occurred due to MTP and Accelerometer drivers running in the same process)
+
 Version 1.2.3
     Polling Optimizations
     - Removed obtaining the current GPU power consumption (this caused increased CPU usage and power consumption in Idle).
