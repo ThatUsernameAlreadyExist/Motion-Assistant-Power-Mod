@@ -1,3 +1,10 @@
+Version 1.2.5
+    Power Management
+    — The "Disable Bluetooth" and "Disable Bosch BMI160 accelerometer" options are enabled by default.
+
+    Fixes
+    — Added the "Disable part of AMD Adrenaline driver after sleep" option. This fixes a system crash/restart when launching 3D games after Modern Standby (a bug in the latest available AMD drivers) by disabling "AMD External Events Utility" service. 
+
 Version 1.2.4
     Fixes
     - Fixed a low MTP file transfer rate issue when pausing the Bosch BMI160 Accelerometer driver (conflict occurred due to MTP and Accelerometer drivers running in the same process)
