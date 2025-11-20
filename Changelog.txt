@@ -1,3 +1,15 @@
+Version 2.0.0
+    User Interface
+    - Added a completely new simple user interface mode (with the most convenient settings).
+      You can switch between the new and old UI.
+
+    Power Management
+    - Optimized process profile handling, reduce CPU/energy usage when any process profile is configured
+
+    Fixes
+    - Fixed gyro autostart settings
+    - Remove the "Disable part of AMD Adrenaline driver after sleep" option from UI because latest AMD drivers fixed this issue.
+
 Version 1.2.5
     Power Management
     — The "Disable Bluetooth" and "Disable Bosch BMI160 accelerometer" options are enabled by default.
