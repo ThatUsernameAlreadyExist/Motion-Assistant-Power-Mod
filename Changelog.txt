@@ -1,3 +1,24 @@
+Version 2.1.0
+    New UI
+    - Improved for displays with very high DPI (>175%)
+    - Scrollbar visibility now depends on the OS setting
+    - Added localization via ini files (in the pmgui/Localization folder)
+    - Added Simplified Chinese, Spanish, Korean, and Japanese languages
+    - Added option to hide tabs in the left menu (Advanced Settings → Appearance → Enabled Tab pages)
+    - Added gamepad navigation:
+      - Left/Right shoulder buttons – switch between tabs
+      - D-pad/Left stick – navigate between controls
+      - A-button – select/Enter
+      - B-button – back/Escape
+      - Right stick – scroll window
+      - Start button – collapse/expand left menu
+
+    Gyro
+    - Added option to swap X and Y axes (for Win 4)
+
+    Fixes
+    - Fixed non-working keyboard hotkeys
+
 Version 2.0.0
     User Interface
     - Added a completely new simple user interface mode (with the most convenient settings).
