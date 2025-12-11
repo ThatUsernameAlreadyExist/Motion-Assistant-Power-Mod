@@ -1,3 +1,16 @@
+Version 2.1.2
+    Fixes
+    - Slightly improved application launch speed
+    - The tray icon is now grey while the application is loading
+    - Fixed startup in a minimized state
+    - Fixed a window opening when launching a second instance of MA
+    - Fixed a potential flash of the old UI on application launch
+    - Fixed delay in gyro activation via hotkey
+    - Fixed gyro settings display when editing a process profile
+
+    New UI
+    - Added gyro sensitivity setting
+
 Version 2.1.1
     Fixes
     - Fixed saving settings if the application is installed in Program Files
