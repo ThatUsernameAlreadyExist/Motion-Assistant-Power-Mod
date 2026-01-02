@@ -1,3 +1,7 @@
+Version 2.2.0
+    Fixes
+    - Fixed overwriting/loading of incorrect fan settings when applying a process profile
+
 Version 2.1.2
     Fixes
     - Slightly improved application launch speed
