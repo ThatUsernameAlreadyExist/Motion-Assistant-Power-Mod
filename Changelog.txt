@@ -4,6 +4,8 @@ Version 2.2.1
     - Removed the "Turn off Bluetooth in sleep mode" and "Disable Bosch Accelerometer" options from the classic interface
       They are now only available in the new UI.
     - Removed "Unite Powerline/Battery TDP/FPS" options from the new UI
+    Fixes
+    - Fixed non-working hardware acceleration when rendering the new UI
     
 Version 2.2.0
     Fixes
