@@ -1,3 +1,10 @@
+Version 2.2.2
+    New UI
+    - Added new option in Advanced/Appearance tab to disable hardware rendering (as it slightly increases system power consumption).
+    - The UI process is switched to power-saving mode when the window is minimized/hidden
+    Fixes
+    - Fixed possible exception with Notify Icon
+
 Version 2.2.1
     New UI
     - Added the ability to change slider values using the keyboard
