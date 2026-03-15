@@ -1,3 +1,7 @@
+Version 2.2.3
+    Fixes
+    - Fixed an issue where the "Disable Bosch accelerometer" option would not work in some cases
+
 Version 2.2.2
     New UI
     - Added new option in Advanced/Appearance tab to disable hardware rendering (as it slightly increases system power consumption).
