@@ -1,6 +1,6 @@
 Version 2.2.3
-    Fixes
-    - Fixed an issue where the "Disable Bosch accelerometer" option would not work in some cases
+    New UI
+    - Made parameter updates (CPU load, power consumption, etc.) on the monitoring page smoother
 
 Version 2.2.2
     New UI
