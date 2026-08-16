@@ -1,3 +1,8 @@
+Version 2.2.3.1
+    Fixes
+    - Fixed a resource leak in the system monitor that caused a gradual increase in CPU usage over time, most notably when using an NVIDIA eGPU.
+    - Minor optimization to resource monitoring on AMD systems.
+
 Version 2.2.3
     New UI
     - Made parameter updates (CPU load, power consumption, etc.) on the monitoring page smoother
